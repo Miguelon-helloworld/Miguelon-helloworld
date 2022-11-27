@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miguelon-helloworld
 - 👀 I’m interested in learning software development 
-- 🌱 
+- 🌱 I'd love to find an itinerary to star with my learning.
 - 💞️ I’m looking to collaborate on an project that allows me to grow as a developer. 
 - 📫 How to reach me: I'd be pleased you reach through my github profile. 
 
